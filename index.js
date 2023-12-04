@@ -11,6 +11,7 @@ let options = [
     {text: "Real Brasileiro", value: "BRL"},
     {text: "Bitcoin", value: "BTC"}
 ]
+
 let valueIn = ''
 let valueOut = ''
 
